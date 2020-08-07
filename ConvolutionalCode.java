@@ -70,9 +70,5 @@ public class ConvolutionalCode {
 		list.add(sum1);
 		list.add(sum2);
 		
-	}
-	
-	
-	
-	
+	}	
 }
